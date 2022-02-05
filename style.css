@@ -1,5 +1,6 @@
 h1 {
   box-sizing: border-box;
+
   padding: 60px;
   padding-right: 100px;
   font-size: 50px;
@@ -14,8 +15,8 @@ h1 {
   border-radius: 30px;
   background-image: linear-gradient(
     90deg,
-    rgb(91, 135, 216) 0%,
-    rgb(241, 240, 237) 50%
+    rgba(250, 1, 1, 0.521) 0%,
+    rgb(252, 241, 241) 50%
   );
 }
 
@@ -49,12 +50,11 @@ h1 {
   font-size: 40px;
   margin: 10px;
   padding: 10px;
-  box-shadow: 0 0 0.5em lightblue;
   border-radius: 30px;
   background-image: linear-gradient(
     90deg,
-    rgb(91, 135, 216) 0%,
-    rgb(241, 240, 237) 50%
+    rgba(250, 1, 1, 0.521) 0%,
+    rgb(252, 241, 241) 50%
   );
 }
 
@@ -70,12 +70,11 @@ h1 {
   font-size: 40px;
   margin: 10px;
   padding: 10px;
-  box-shadow: 0 0 0.5em lightblue;
   border-radius: 30px;
   background-image: linear-gradient(
     90deg,
-    rgb(91, 135, 216) 0%,
-    rgb(241, 240, 237) 50%
+    rgba(250, 1, 1, 0.521) 0%,
+    rgb(252, 241, 241) 50%
   );
 }
 
@@ -99,12 +98,11 @@ h1 {
   font-size: 40px;
   margin: 10px;
   padding: 10px;
-  box-shadow: 0 0 0.5em lightblue;
   border-radius: 30px;
   background-image: linear-gradient(
     90deg,
-    rgb(91, 135, 216) 0%,
-    rgb(241, 240, 237) 50%
+    rgba(250, 1, 1, 0.521) 0%,
+    rgb(252, 241, 241) 50%
   );
 }
 
