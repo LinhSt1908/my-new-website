@@ -1,0 +1,29 @@
+header {
+  box-sizing: border-box;
+  border: 5px solid black;
+  padding: 60px;
+  padding-right: 100px;
+  font-size: 50px;
+}
+
+.box1 {
+  box-sizing: border-box;
+  border: 5px solid black;
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.communicate {
+  font-family: fantasy;
+  font-size: 50px;
+}
+
+.box2 {
+  box-sizing: border-box;
+  border: 5px solid black;
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  align-items: normal;
+}
