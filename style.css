@@ -1,29 +1,103 @@
-header {
+h1 {
   box-sizing: border-box;
-  border: 5px solid black;
   padding: 60px;
   padding-right: 100px;
   font-size: 50px;
+  font-family: fantasy;
+}
+.me {
+  box-sizing: content-box;
+  font-family: fantasy;
+  font-size: 40px;
+  margin: 10px;
+  padding: 10px;
+  box-shadow: 0 0 0.5em lightblue;
+  border-radius: 30px;
 }
 
 .box1 {
   box-sizing: border-box;
-  border: 5px solid black;
   padding: 20px;
   display: flex;
   justify-content: space-around;
 }
 
+.flagg {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.rund {
+  border-radius: 25px;
+}
+
+.language {
+  font-size: 30px;
+}
+
+.five {
+  font-size: 30px;
+}
+
 .communicate {
   font-family: fantasy;
-  font-size: 50px;
+  font-size: 40px;
+  margin: 10px;
+  padding: 10px;
+  box-shadow: 0 0 0.5em lightblue;
+  border-radius: 30px;
 }
 
 .box2 {
   box-sizing: border-box;
-  border: 5px solid black;
   padding: 20px;
   display: flex;
-  flex-direction: row;
-  align-items: normal;
+  justify-content: space-around;
+}
+
+.lebenslauf {
+  font-family: fantasy;
+  font-size: 40px;
+  margin: 10px;
+  padding: 10px;
+  box-shadow: 0 0 0.5em lightblue;
+  border-radius: 30px;
+}
+
+.box3 {
+  box-sizing: border-box;
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.job {
+  font-size: 30px;
+}
+
+.studium {
+  font-size: 30px;
+}
+.contact {
+  box-sizing: content-box;
+  font-family: fantasy;
+  font-size: 40px;
+  margin: 10px;
+  padding: 10px;
+  box-shadow: 0 0 0.5em lightblue;
+  border-radius: 30px;
+}
+
+.email {
+  box-sizing: content-box;
+  padding: 20px;
+  font-size: 20px;
+}
+
+.box4 {
+  box-sizing: border-box;
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
 }
