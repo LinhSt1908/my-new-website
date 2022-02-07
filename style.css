@@ -1,10 +1,13 @@
 h1 {
   box-sizing: border-box;
-
-  padding: 60px;
-  padding-right: 100px;
+  padding: 150px;
+  margin: 20px;
   font-size: 50px;
   font-family: fantasy;
+  color: red;
+  background-image: url(bild3.webp);
+  background-size: cover;
+  background-position: right;
 }
 .me {
   box-sizing: content-box;
@@ -24,7 +27,7 @@ h1 {
   box-sizing: border-box;
   padding: 20px;
   display: flex;
-  justify-content: space-around;
+  justify-content: space-evenly;
 }
 
 .flagg {
@@ -43,6 +46,13 @@ h1 {
 
 .five {
   font-size: 30px;
+}
+
+.facts {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .communicate {
@@ -82,7 +92,7 @@ h1 {
   box-sizing: border-box;
   padding: 20px;
   display: flex;
-  justify-content: space-around;
+  justify-content: space-evenly;
 }
 
 .job {
@@ -116,5 +126,5 @@ h1 {
   box-sizing: border-box;
   padding: 20px;
   display: flex;
-  justify-content: space-around;
+  justify-content: space-evenly;
 }
