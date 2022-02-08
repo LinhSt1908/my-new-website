@@ -1,1 +1,11 @@
-blabla
+header {
+  box-sizing: border-box;
+  padding: 150px;
+  margin: 20px;
+  font-size: 50px;
+  font-family: fantasy;
+  color: red;
+  background-image: url(bild3.webp);
+  background-size: cover;
+  background-position: right;
+}
