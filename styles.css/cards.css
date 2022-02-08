@@ -1,0 +1,96 @@
+.me {
+  box-sizing: content-box;
+  text-align: center;
+  font-family: fantasy;
+  margin: 10px;
+  padding: 3px;
+  font-size: 40px;
+  border-radius: 30px;
+  background-image: linear-gradient(
+    90deg,
+    rgba(250, 1, 1, 0.521) 0%,
+    rgb(252, 241, 241) 50%
+  );
+}
+
+.flagg {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.rund {
+  border-radius: 25px;
+}
+
+.language {
+  font-size: 30px;
+}
+
+.five {
+  font-size: 30px;
+}
+
+.facts {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.communicate {
+  font-family: fantasy;
+  font-size: 40px;
+  text-align: center;
+  margin: 10px;
+  padding: 3px;
+  border-radius: 30px;
+  background-image: linear-gradient(
+    90deg,
+    rgba(250, 1, 1, 0.521) 0%,
+    rgb(252, 241, 241) 50%
+  );
+}
+
+.lebenslauf {
+  font-family: fantasy;
+  font-size: 40px;
+  text-align: center;
+  margin: 10px;
+  padding: 3px;
+  border-radius: 30px;
+  background-image: linear-gradient(
+    90deg,
+    rgba(250, 1, 1, 0.521) 0%,
+    rgb(252, 241, 241) 50%
+  );
+}
+
+.job {
+  font-size: 30px;
+}
+
+.studium {
+  font-size: 30px;
+}
+.contact {
+  box-sizing: content-box;
+  font-family: fantasy;
+  text-align: center;
+  font-size: 40px;
+  margin: 10px;
+  padding: 3px;
+  border-radius: 30px;
+  background-image: linear-gradient(
+    90deg,
+    rgba(250, 1, 1, 0.521) 0%,
+    rgb(252, 241, 241) 50%
+  );
+}
+
+.email {
+  box-sizing: content-box;
+  padding: 20px;
+  font-size: 20px;
+  text-align: center;
+}
